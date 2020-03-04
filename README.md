@@ -10,5 +10,5 @@ or
 
 import {BrowserRouter} from "react-router-dom"; Example to Index.js
 
-import { Route, Link } from "react-router-dom"; Example to At App.js
+import { Route, Link } from "react-router-dom"; Example to App.js
 
